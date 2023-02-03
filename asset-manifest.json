@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/holydayy/static/css/main.abca54f6.css",
+    "main.js": "/holydayy/static/js/main.e05bd35b.js",
+    "index.html": "/holydayy/index.html",
+    "main.abca54f6.css.map": "/holydayy/static/css/main.abca54f6.css.map",
+    "main.e05bd35b.js.map": "/holydayy/static/js/main.e05bd35b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abca54f6.css",
+    "static/js/main.e05bd35b.js"
+  ]
+}
